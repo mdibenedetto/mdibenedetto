@@ -27,7 +27,6 @@ Hi, I am Michele a technology lover!
 # About me
 
 I have been working in the ICT sector for more than 10 years across multiple industries such as Hospitality, E-Commerce, Automotive, E-learning.
-
 My career has started developing desktop applications using Microsoft DotNet technologies (**c#** and **vb**.**net**).
 
 Following the technologies evolution, I moved to ASP.NET, by which I developed full-stack web applications; the experience with web-related technologies led me to my current passion, which is to build rich client user interfaces, very interactive and highly user-centered.
