@@ -17,9 +17,12 @@ Here are some ideas to get you started:
 
 Hi, I am Michele a technology lover!
 
-## Contact
+---
 
-[![Linkedin: Michele Dibenedetto](https://img.shields.io/badge/-Michele%20Dibenedetto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mdibenedetto-dev)](https://www.linkedin.com/in/mdibenedetto-dev)
+### 📫 How to reach me
+
+[![Linkedin: Linkedin](https://img.shields.io/badge/-Liinkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mdibenedetto-dev)](https://www.linkedin.com/in/mdibenedetto-dev)
+[![Email](https://img.shields.io/badge/-Email-eaeaea.svg?style=flat-square&logo=gmail&logoColor=e73e33&link=mailto:mdibenedetto-dev@gmail.com)](mailto:mdibenedetto-dev@gmail.com)
 
 # About me
 
@@ -45,7 +48,7 @@ In my github profile you can find several projects where I do learn new technolo
                <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white"/>
                <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
                <img alt="CSharp" src="https://img.shields.io/badge/CSharp%20-%230081CB.svg?&style=for-the-badge&logo=c%23&logoColor=%23F7DF1E"/>
-               <img alt="Java" src="https://img.shields.io/badge/Java%20-white.svg?&style=for-the-badge&logo=java&logoColor=5281a1"/>
+               <img alt="Java" src="https://img.shields.io/badge/Java%20-d76251.svg?&style=for-the-badge&logo=java&logoColor=5281a1"/>
             </td>
         </tr>
         <tr>
@@ -61,6 +64,7 @@ In my github profile you can find several projects where I do learn new technolo
          <tr>
             <td>
                 <img alt="Material UI" src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
+                <img alt="Storybook" src="https://img.shields.io/badge/Storybook%20-%230081CB.svg?&style=for-the-badge&logo=storybook&logoColor=white"/>
                 <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
                 <img alt="Redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
                 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
@@ -83,6 +87,8 @@ In my github profile you can find several projects where I do learn new technolo
             <td>
                 <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL%20-%23404d59.svg?&style=for-the-badge&logo=graphql&logoColor=de33a6"/>
                 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+                <img alt="bash" src="https://img.shields.io/badge/Bash%20-%23404d59.svg?&style=for-the-badge&logo=bash&logoColor=de33a6"/>
+                <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins%20-cc3632.svg?&style=for-the-badge&logo=Jenkins&logoColor=314d5e"/>
             </td>
         </tr>
     </tbody>
