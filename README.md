@@ -38,8 +38,8 @@ In my github profile you can find several projects where I do learn new technolo
 
 <table style="border: 1px">
     <thead>
-        <th>Stack Type</th>
-        <th>Elements</th>
+        <th>Category</th>
+        <th>Technology</th>
     </thead>
     <tbody>
         <tr>
