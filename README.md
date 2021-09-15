@@ -98,7 +98,7 @@ In my github profile you can find several projects where I do learn new technolo
             <td>
                 <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL%20-%23404d59.svg?&style=for-the-badge&logo=graphql&logoColor=de33a6"/>
                 <img alt="Redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
-                <img alt="Mobx" src="https://img.shields.io/badge/-Mobx-white?logo=mobx&logoColor=#e26013"/>
+                <img alt="Mobx" src="https://img.shields.io/badge/-Mobx-white?style=for-the-badge&logo=mobx&logoColor=#e26013"/>
             </td>
         </tr>
     </tbody>
