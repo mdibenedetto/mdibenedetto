@@ -64,10 +64,9 @@ In my github profile you can find several projects where I do learn new technolo
          <tr>
             <td>
                 <img alt="Material UI" src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
-                <img alt="Storybook" src="https://img.shields.io/badge/Storybook%20-%230081CB.svg?&style=for-the-badge&logo=storybook&logoColor=white"/>
-                <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
-                <img alt="Redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
                 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+                <img alt="Storybook" src="https://img.shields.io/badge/Storybook%20-%230081CB.svg?&style=for-the-badge&logo=storybook&logoColor=white"/>
+                <img alt="Redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
             </td>
         </tr>
         <tr>
