@@ -76,10 +76,14 @@ In my github profile you can find several projects where I do learn new technolo
                 <img alt="ASP.NET" src="https://img.shields.io/badge/asp.net%20-%230081CB.svg?&style=for-the-badge&logo=dotnet&logoColor=white"/>
                 <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
                 <img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
+            </td>
+        </tr>
+        <tr>
+            <td>Database</td>
+            <td>
                 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
                 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
                 <img alt="SQLServer" src="https://img.shields.io/badge/sqlserver-%230081CB.svg?&style=for-the-badge&logo=sqlserver&logoColor=white"/>
-                <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
             </td>
         </tr>
         <tr>
@@ -89,6 +93,7 @@ In my github profile you can find several projects where I do learn new technolo
                 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
                 <img alt="bash" src="https://img.shields.io/badge/Bash%20-%23404d59.svg?&style=for-the-badge&logo=bash&logoColor=de33a6"/>
                 <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins%20-cc3632.svg?&style=for-the-badge&logo=Jenkins&logoColor=314d5e"/>
+                <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
             </td>
         </tr>
     </tbody>
