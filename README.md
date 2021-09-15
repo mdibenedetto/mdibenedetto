@@ -66,7 +66,6 @@ In my github profile you can find several projects where I do learn new technolo
                 <img alt="Material UI" src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
                 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
                 <img alt="Storybook" src="https://img.shields.io/badge/Storybook%20-%230081CB.svg?&style=for-the-badge&logo=storybook&logoColor=white"/>
-                <img alt="Redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
             </td>
         </tr>
         <tr>
@@ -86,13 +85,19 @@ In my github profile you can find several projects where I do learn new technolo
             </td>
         </tr>
         <tr>
-            <td>Other</td>
+            <td>CI/CD</td>
             <td>
-                <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL%20-%23404d59.svg?&style=for-the-badge&logo=graphql&logoColor=de33a6"/>
                 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
                 <img alt="bash" src="https://img.shields.io/badge/Bash%20-%23404d59.svg?&style=for-the-badge&logo=bash&logoColor=de33a6"/>
                 <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins%20-cc3632.svg?&style=for-the-badge&logo=Jenkins&logoColor=314d5e"/>
                 <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+            </td>
+        </tr>
+        <tr>
+            <td>Other</td>
+            <td>
+                <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL%20-%23404d59.svg?&style=for-the-badge&logo=graphql&logoColor=de33a6"/>
+                 <img alt="Redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
             </td>
         </tr>
     </tbody>
