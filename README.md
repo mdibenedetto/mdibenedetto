@@ -22,7 +22,7 @@ Hi, I am Michele a technology lover!
 ### 📫 How to reach me
 
 [![Linkedin: Linkedin](https://img.shields.io/badge/-Liinkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mdibenedetto-dev)](https://www.linkedin.com/in/mdibenedetto-dev)
-[![Email](https://img.shields.io/badge/-Email-eaeaea.svg?style=flat-square&logo=gmail&logoColor=e73e33&link=mailto:mdibenedetto-dev@gmail.com)](mailto:mdibenedetto-dev@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-eaeaea.svg?style=flat-square&logo=gmail&logoColor=e73e33&link=mailto:mdibenedetto-dev@gmail.com)](mailto:mdibenedetto.dev@gmail.com)
 
 # About me
 
